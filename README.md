@@ -3,6 +3,7 @@ O AnemoVision é um sistema que visa automatizar a organização e filtragem de 
 
 
 <div align="center">
+    
 ![status](https://img.shields.io/badge/status-Finalizado-88CE02?style=for-the-badge)
 </div>
 
