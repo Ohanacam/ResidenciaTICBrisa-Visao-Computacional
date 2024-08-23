@@ -12,8 +12,8 @@ O **AnemoVision** é um sistema desenvolvido para automatizar a organização e 
 A **MKS Messtechnik Service** enfrentava desafios devido ao grande volume de imagens recebidas durante os atendimentos, muitas das quais não atendiam aos padrões de qualidade e organização necessários. Esse cenário dificultava a busca por imagens para a criação de relatórios e outros fins administrativos.
 
 Para resolver esse problema, desenvolvemos o **AnemoVision**, um sistema avançado que utiliza técnicas de **visão computacional** e **Reconhecimento Óptico de Caracteres (OCR)** para automatizar a classificação e organização das fotos. O sistema identifica e categoriza imagens com base em características como:
-- Tipo de dispositivo (ex.: anemômetro, odômetro)
-- Localização geográfica
+- Tipo de dispositivo encontrado (ex.: anemômetro, odômetro, windvane)
+- Número de série
 - Data e hora do atendimento
 
 Essas informações são armazenadas de forma estruturada e acessível, permitindo um gerenciamento eficiente do acervo de imagens da empresa.
